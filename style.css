@@ -1,0 +1,14 @@
+iframe{
+	border: groove 1px blue;
+	padding: 50px;
+	margin: 30px;
+	border-radius: 10px;
+	background: linear-gradient(55deg,yellow,orange,red,cyan);
+}
+body{background: linear-gradient(blue,cyan);}
+img{border: groove 1px blue;
+	padding: 50px;
+	margin: 30px;
+	border-radius: 10px;
+	background: linear-gradient(55deg,yellow,orange,red,cyan);
+}
